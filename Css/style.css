@@ -286,10 +286,67 @@ section div div button a:hover ::after{
 }
 .Whyus{
     margin-top: 5%;
-    padding-bottom: 4%;
+    padding-bottom: 3%;
 }
 #headoo{
     text-align: center;
     font-size: 40px;
     font-family: PT Sans;
+}
+.reasons{
+    display: flex;
+    margin-bottom: 5%;
+    padding: 1%;
+}
+.reas{
+    border: 1px solid transparent;
+    padding: 0px 20px 0px 20px;
+}
+.logi{
+    text-align: center;
+    padding-bottom: 3%;
+}
+.logis{
+    text-align: center;
+}
+#Contact{ 
+    background-color: rgb(12, 119, 119);
+    height: 100vh;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 100px;
+}
+
+section div h2{
+    font-size: 60px;
+    margin-bottom: 90px;
+}
+
+.errr{
+    font-size: 20px;
+    padding-bottom: 110px;
+}
+
+.frty{
+    padding-bottom: 60px;
+}
+
+section div a i{
+    color: springgreen;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+.dryyy{
+    padding-right: 20px;
+}
+
+.dryy{
+     padding-right: 20px;
+}
+
+.forty{
+    text-decoration: none;
+    color: paleturquoise;
+    padding-left: 10px;
 }
